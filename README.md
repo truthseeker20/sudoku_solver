@@ -23,7 +23,7 @@ First, clone the repository to your local machine and navigate into the project 
 
 `git clone https://github.com/truthseeker20/sudoku_solver.git`
 
-`cd sudoku_solve`
+`cd sudoku_solver`
 
 ## How to use the files and compile & run:
 
