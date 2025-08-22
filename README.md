@@ -7,8 +7,8 @@ NOTE: 0 represents empty cell of Sudoku
 
 ## How to use the files:
 
-1. Clone the repository: ''
-2. Navigate to the directory 'cd /sudoku'
+1. Clone the repository: `git clone https://github.com/truthseeker20/sudoku_solver.git`
+2. Navigate to the directory `cd /sudoku`
 3. Types of files and how to compile:
    -> sudoku.c
        1. it has 9x9 zero sudoku, which it solves by itself, you can change it by making changes to the code
