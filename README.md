@@ -21,7 +21,7 @@ To compile and run these programs, you will need a C compiler, such as `gcc`, in
 
 First, clone the repository to your local machine and navigate into the project directory.
 
-`git clone [https://github.com/truthseeker20/sudoku_solver.git](https://github.com/truthseeker20/sudoku_solver.git)`
+`git clone https://github.com/truthseeker20/sudoku_solver.git`
 
 `cd sudoku_solve`
 
